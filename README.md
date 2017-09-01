@@ -1,4 +1,4 @@
-<title>Privacy Policy</title> <style>body{font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; padding:1em;}</style></head> <body><h2>Privacy Policy</h2> <p> Sonipak built the Wave app as an Ad Supported app. This SERVICE is provided by Sonipak at no cost and is intended for use as is.
+<body><h2>Privacy Policy</h2> <p> Sonipak built the Wave app as an Ad Supported app. This SERVICE is provided by Sonipak at no cost and is intended for use as is.
                   </p> <p>This page is used to inform website visitors regarding my policies with the collection, use, and
                     disclosure of Personal Information if anyone decided to use my Service.
                   </p> <p>If you choose to use my Service, then you agree to the collection and use of information in relation
